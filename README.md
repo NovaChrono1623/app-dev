@@ -46,7 +46,3 @@ My first repository
 * Nissan Silvia
 * Nissan 350Z
 * Ford Mustang with a swapped engine
-
-## Learn More
-
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/The_Fast_and_the_Furious:_Tokyo_Drift).
