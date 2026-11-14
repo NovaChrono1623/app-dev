@@ -1,8 +1,6 @@
 # app-dev
 My first repository
 
-My first repository
-
 # 🏁 The Fast and the Furious: Tokyo Drift
 
 *My favorite movie from the Fast & Furious franchise.*
